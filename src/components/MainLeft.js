@@ -17,7 +17,7 @@ export default function MainLeft() {
         </div>
         <div className='flex flex-col justify-center cursor-pointer items-center hover:bg-gray-600 w-full h-20 mt-2'>
 <VideoCameraIcon className='h-6'/>
-            <h4 className='text-[10px]'> Shorts</h4>
+            <h4 className='text-[10px]'> Short</h4>
         </div>
         <div className='flex flex-col justify-center cursor-pointer items-center hover:bg-gray-600 w-full h-20 mt-2'>
 <PlayIcon className='h-6'/>
