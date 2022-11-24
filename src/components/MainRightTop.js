@@ -17,7 +17,7 @@ function MainRightTop() {
         <h3 className='bg-[#4D4D4D] hover:bg-gray-500 cursor-pointer border-2 border-[#5F5F5F] rounded-full text-center px-3 py-1'>coding</h3>
         <h3 className='bg-[#4D4D4D] hover:bg-gray-500 cursor-pointer border-2 border-[#5F5F5F] rounded-full text-center px-3 py-1'>html</h3>
         <h3 className='bg-[#4D4D4D] hover:bg-gray-500 cursor-pointer border-2 border-[#5F5F5F] rounded-full text-center px-3 py-1'>Live</h3>
-
+        <h3 className='bg-[#4D4D4D] hover:bg-gray-500 cursor-pointer border-2 border-[#5F5F5F] rounded-full text-center px-3 py-1'>typescript</h3>
     </div>
   ) 
 }
